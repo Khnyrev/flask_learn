@@ -40,6 +40,5 @@ SQLAlchemy==2.0.22
 tomli==2.0.1
 typing_extensions==4.8.0
 utils==1.0.1
-virtualenv==20.24.5
 Werkzeug==3.0.0
 zipp==3.17.0
